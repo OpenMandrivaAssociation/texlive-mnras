@@ -1,6 +1,6 @@
 Name:		texlive-mnras
 Version:	55729
-Release:	1
+Release:	2
 Summary:	Monthly Notices of the Royal Astronomical Society
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mnras
