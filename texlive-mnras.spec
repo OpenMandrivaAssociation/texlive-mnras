@@ -3,7 +3,7 @@ Version:	68878
 Release:	1
 Summary:	Monthly Notices of the Royal Astronomical Society
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mnras
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mnras
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mnras.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mnras.doc.r%{version}.tar.xz
